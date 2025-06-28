@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c41dce4d-2572-4336-aa7b-63281910a578" name="Changes" comment="Strata_scratch">
-      <change afterPath="$PROJECT_DIR$/Strata_scratch_14.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strata_scratch_15.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750974937888</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Strata_scratch">
+      <option name="closed" value="true" />
+      <created>1751058795129</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751058795129</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
