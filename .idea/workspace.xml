@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c41dce4d-2572-4336-aa7b-63281910a578" name="Changes" comment="Strata_scratch">
+      <change afterPath="$PROJECT_DIR$/Stepik/Task_1.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strata_scratch_1.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Strata_scratch/Strata_scratch_1.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strata_scratch_2.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Strata_scratch/Strata_scratch_2.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751998895319</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Strata_scratch">
+      <option name="closed" value="true" />
+      <created>1752064103023</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1752064103023</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
