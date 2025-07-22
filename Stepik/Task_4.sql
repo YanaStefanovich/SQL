@@ -1,8 +1,8 @@
--- Task: Question Success Rates by Subject
+-- Task: Exam results
 -- For each applicant and program they applied to, calculate the total exam score (itog). Output: program name, applicant's last and first name, and itog. Sort by program name, then by itog descending. (shortened version of original task)
 -- Source: Stepik SQL Course
 
-SELECT name_program, name_enrollee, SUM(result) as Total
+SELECT name_program, name_enrollee, SUM(result) as Results
 FROM
     subject
     JOIN program_subject USING(subject_id)
