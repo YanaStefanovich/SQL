@@ -1,4 +1,4 @@
--- Task: Row numbering
+-- Task:
 -- Fill the step_keyword table: if there is keyword in the step's name, fill the step_keyword with step id and keyword id
 -- Source: Stepik SQL Course
 

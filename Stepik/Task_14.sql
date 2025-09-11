@@ -1,4 +1,4 @@
--- Task: Row numbering
+-- Task:
 -- Implement keyword search and list only those steps that are linked to both keywords MAX and AVG. Output a single column named Step formatted as <module_id>.<lesson_position>.<step_position(two digits)> <step_title> (zero-pad the step position, e.g., 03), and sort the results alphabetically by this Step column in ascending order.
 -- Source: Stepik SQL Course
 

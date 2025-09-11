@@ -1,4 +1,4 @@
--- Task: Row numbering
+-- Task:
 -- Filter steps whose step title mentions subqueries. Output: Module: <module_no> <module_name> (≤19 chars; if longer → first 16 + ...). Lesson: <module_no>.<lesson_pos> <lesson_name> (same limit). Step: <module_no>.<lesson_pos>.<step_pos> <step_name>.
 -- Source: Stepik SQL Course
 
