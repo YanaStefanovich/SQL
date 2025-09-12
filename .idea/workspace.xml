@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c41dce4d-2572-4336-aa7b-63281910a578" name="Changes" comment="stepik">
-      <change afterPath="$PROJECT_DIR$/Stepik/Task_15.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Leetcode/LC_3.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -325,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757532646598</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="stepik">
+      <option name="closed" value="true" />
+      <created>1757616620923</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1757616620923</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
