@@ -1,4 +1,4 @@
--- Task: Course progress
+-- Task: Average Time
 -- Attempt time = submission_time − attempt_start, drop attempts > 4h; for each student and lesson sum valid attempt times across steps; for each lesson average these per-student totals convert to hours round to 2 decimals; sort by average time ascending add row numbers show module number and lesson_position; columns: Номер, Урок, Среднее_время
 -- Source: Stepik SQL Course
 

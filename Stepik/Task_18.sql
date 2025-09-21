@@ -1,4 +1,4 @@
--- Task: Course progress
+-- Task: Steps
 -- For student student_61, list all attempts: step title, result, submission_time; sort by submission_time; add minutes since previous attempt; truncate step title to 20 chars + ...; column headers: Студент, Шаг, Результат, Дата_отправки, Разница.
 -- Source: Stepik SQL Course
 
