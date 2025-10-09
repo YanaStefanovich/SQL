@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41dce4d-2572-4336-aa7b-63281910a578" name="Changes" comment="stepik">
+    <list default="true" id="c41dce4d-2572-4336-aa7b-63281910a578" name="Changes" comment="stepik task solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -388,7 +388,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758449364249</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="stepik task solution">
+      <option name="closed" value="true" />
+      <created>1759686626357</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1759686626357</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -409,6 +417,7 @@
     <MESSAGE value="ss" />
     <MESSAGE value="lc" />
     <MESSAGE value="stepik" />
-    <option name="LAST_COMMIT_MESSAGE" value="stepik" />
+    <MESSAGE value="stepik task solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="stepik task solution" />
   </component>
 </project>
