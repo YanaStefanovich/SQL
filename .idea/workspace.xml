@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41dce4d-2572-4336-aa7b-63281910a578" name="Changes" comment="leetcode task solution" />
+    <list default="true" id="c41dce4d-2572-4336-aa7b-63281910a578" name="Changes" comment="leetcode task solution">
+      <change afterPath="$PROJECT_DIR$/Leetcode/LC_9.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -402,7 +405,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760035614794</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="leetcode task solution">
+      <option name="closed" value="true" />
+      <created>1760037341471</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1760037341471</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
