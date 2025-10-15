@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41dce4d-2572-4336-aa7b-63281910a578" name="Changes" comment="leetcode 'DNA Pattern Recognition' task solution">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c41dce4d-2572-4336-aa7b-63281910a578" name="Changes" comment="leetcode 'Analyze Subscription Conversion' task solution" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -428,7 +426,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760211598487</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="leetcode 'Analyze Subscription Conversion' task solution">
+      <option name="closed" value="true" />
+      <created>1760260226874</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1760260226874</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -453,6 +459,7 @@
     <MESSAGE value="leetcode task solution" />
     <MESSAGE value="leetcode 'Count Salary Categories 'task solution" />
     <MESSAGE value="leetcode 'DNA Pattern Recognition' task solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode 'DNA Pattern Recognition' task solution" />
+    <MESSAGE value="leetcode 'Analyze Subscription Conversion' task solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode 'Analyze Subscription Conversion' task solution" />
   </component>
 </project>
