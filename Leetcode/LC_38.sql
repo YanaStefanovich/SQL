@@ -1,7 +1,7 @@
 -- Find Category Recommendation Pairs
 -- Find category pairs (category1 < category2) where at least 3 distinct customers bought from both categories; for each pair return the number of such customers, ordered by customer_count DESC, then category1 ASC, then category2 ASC.
 -- Source: Leetcode
--- Difficulty: Medium
+-- Difficulty: Hard
 
 WITH A AS
 (
